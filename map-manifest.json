@@ -1,0 +1,165 @@
+{
+  "entries": [
+    {
+      "property": "38705-20th-st-e",
+      "category": "subject",
+      "lat": 34.5852256,
+      "lng": -118.0953681,
+      "place_id": "ChIJtURmqJBXwoARyIBsJRAPtNA",
+      "precision": "ROOFTOP",
+      "needs_review": false
+    },
+    {
+      "property": "38705-20th-st-e",
+      "category": "sold",
+      "order": 1,
+      "lat": 34.585164,
+      "lng": -118.12221709999999,
+      "place_id": "ChIJjZclvy1YwoARHqohEa7PS_Q",
+      "precision": "ROOFTOP",
+      "needs_review": false
+    },
+    {
+      "property": "38705-20th-st-e",
+      "category": "sold",
+      "order": 2,
+      "lat": 34.5730198,
+      "lng": -118.10614129999998,
+      "place_id": "ChIJPSu_qIxXwoARfAAxCXtCSdw",
+      "precision": "ROOFTOP",
+      "needs_review": false
+    },
+    {
+      "property": "38705-20th-st-e",
+      "category": "sold",
+      "order": 3,
+      "lat": 34.573049999999995,
+      "lng": -118.1128598,
+      "place_id": "ChIJ1yuHfCBYwoARuedEADMrBmQ",
+      "precision": "ROOFTOP",
+      "needs_review": false
+    },
+    {
+      "property": "38705-20th-st-e",
+      "category": "sold",
+      "order": 4,
+      "lat": 34.572983900000004,
+      "lng": -118.1039787,
+      "place_id": "ChIJX94U04xXwoARqLm3jna0hmE",
+      "precision": "ROOFTOP",
+      "needs_review": false
+    },
+    {
+      "property": "38705-20th-st-e",
+      "category": "sold",
+      "order": 5,
+      "lat": 34.6596908,
+      "lng": -118.2050332,
+      "place_id": "ChIJD-CqTX1bwoAR-MotJLixNt0",
+      "precision": "ROOFTOP",
+      "needs_review": false
+    },
+    {
+      "property": "38705-20th-st-e",
+      "category": "sold",
+      "order": 6,
+      "lat": 34.6523243,
+      "lng": -118.21775720000001,
+      "place_id": "ChIJG6ctWY9cwoARSQxFrVdW-WE",
+      "precision": "ROOFTOP",
+      "needs_review": false
+    },
+    {
+      "property": "38705-20th-st-e",
+      "category": "rent",
+      "order": 1,
+      "lat": 34.585735199999995,
+      "lng": -118.10954910000001,
+      "place_id": "ChIJU1lW2IZXwoARW87u0jiJdNs",
+      "precision": "ROOFTOP",
+      "needs_review": false
+    },
+    {
+      "property": "38705-20th-st-e",
+      "category": "rent",
+      "order": 2,
+      "lat": 34.585735199999995,
+      "lng": -118.10954910000001,
+      "place_id": "ChIJU1lW2IZXwoARW87u0jiJdNs",
+      "precision": "ROOFTOP",
+      "needs_review": false
+    },
+    {
+      "property": "38705-20th-st-e",
+      "category": "rent",
+      "order": 3,
+      "lat": 34.585735199999995,
+      "lng": -118.10954910000001,
+      "place_id": "ChIJU1lW2IZXwoARW87u0jiJdNs",
+      "precision": "ROOFTOP",
+      "needs_review": false
+    },
+    {
+      "property": "38705-20th-st-e",
+      "category": "rent",
+      "order": 4,
+      "lat": 34.586295,
+      "lng": -118.1124121,
+      "place_id": "ChIJC5BBACpYwoAR1vMycirmNMo",
+      "precision": "ROOFTOP",
+      "needs_review": false
+    },
+    {
+      "property": "38705-20th-st-e",
+      "category": "rent",
+      "order": 5,
+      "lat": 34.5557298,
+      "lng": -118.10422100000001,
+      "place_id": "ChIJtfQFdPxXwoAR6le7xfHoE3I",
+      "precision": "ROOFTOP",
+      "needs_review": false
+    },
+    {
+      "property": "38705-20th-st-e",
+      "category": "rent",
+      "order": 6,
+      "lat": 34.5708341,
+      "lng": -118.12666340000001,
+      "place_id": "ChIJ49-c9jxYwoARzk95GoY7fF0",
+      "precision": "ROOFTOP",
+      "needs_review": false
+    },
+    {
+      "property": "38705-20th-st-e",
+      "category": "active",
+      "order": 1,
+      "lat": 34.5746818,
+      "lng": -118.1198429,
+      "place_id": "ChIJF-eG8wNZwoARwRlq8CDCMYg",
+      "precision": "ROOFTOP",
+      "needs_review": false
+    },
+    {
+      "property": "38705-20th-st-e",
+      "category": "active",
+      "order": 2,
+      "lat": 34.5762576,
+      "lng": -118.11435820000001,
+      "place_id": "ChIJy707ZeVZwoARHOUN1-4IpSU",
+      "precision": "ROOFTOP",
+      "needs_review": false
+    }
+  ],
+  "renders": {
+    "images/maps-portfolio-subjects.png": "5d18150631496d150e0af9d7c3e631602e2ed35006d77493f41d674026985ba8",
+    "images/maps-portfolio-subjects-tall.png": "8ae5be0e585d3a71da2f7024798a39efec2e9d1eab51ea9dffece44102b2e35e",
+    "images/maps-38705-20th-st-e-subject.png": "9fcb17bec9da0716a530a3b486337fd04604efaad14813f0dfe8bb83e4b6121e",
+    "images/maps-38705-20th-st-e-subject-tall.png": "9f5e99ab31d7a8df5b68be7d9638e65d45e4b7349cff54d94368fc0ffb6c0c77",
+    "images/maps-38705-20th-st-e-sale-comps.png": "5c30d7998a53338b4d0d2317e3fb4a317bb8dbb58551a3a175a67c59c94c3934",
+    "images/maps-38705-20th-st-e-sale-comps-tall.png": "5cd1093311ae7b4487db0313214a4a3a286bcae2204a0f6c316a46aee4bb1b29",
+    "images/maps-38705-20th-st-e-rent-comps.png": "4c2034992189615848b6cf93a5c168bb5e2978a0b5b368f916b55675debc2ba0",
+    "images/maps-38705-20th-st-e-rent-comps-tall.png": "085b2d18479719fa712c27e75c273e56b319d6961496a6ed5cf97ed2d41bf914",
+    "images/maps-38705-20th-st-e-active-comps.png": "f29001c0c96eb985ce0df94d2e3ec2f5988e11531ccac6b41e456c7f48804622",
+    "images/maps-38705-20th-st-e-active-comps-tall.png": "e0888a81588c02dfe23ca58df0d52cd6f2eb4c13b1820ef4c46447a6a2f21772"
+  }
+}
